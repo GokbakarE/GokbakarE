@@ -12,7 +12,7 @@ You can check out my GitHub stats and top languages below:
 ---
 
 <a href="https://github.com/GokbakarE">
-  <img align="left" src="https://github-readme-stats.vercel.app/api?username=GokbakarE" alt="GokbakarE's GitHub Stats" />
+  <img align="left" src="https://github-readme-stats.vercel.app/api?username=GokbakarE&show_icons=true&theme=tokyonight" alt="GokbakarE's GitHub Stats" />
 </a>
 <a href="https://github.com/GokbakarE">
   <img align="left" src="https://github-readme-stats.vercel.app/api/top-langs/?username=GokbakarE&layout=compact&theme=tokyonight&hide_border=true" alt="GokbakarE's Top Languages" />
