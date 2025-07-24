@@ -1,16 +1,11 @@
 ## Hi, I'm GokbakarE 🕷️
 
-[<img src="https://img.icons8.com/color/48/000000/gitlab.png" width="3.5%"/>](https://gitlab.com/GokbakarE)  
-[<img src="https://img.icons8.com/color/48/000000/security-checked.png" width="3.5%"/>](https://infosec.exchange/@GokbakarE)  
-<a href="mailto:GokbakarE@hotmail.com"> <img src="https://img.icons8.com/fluent/48/000000/gmail.png" width="3.5%"/> </a>
+I'm a hobbyist programmer who mainly works with **C++** and **YARA**.  
+I enjoy researching security topics and sharing my projects with the community.
 
-I'm a passionate **hobbyist programmer** who loves writing **Offensive Security Tools** in **C/C++** and **Assembly**.  
-I enjoy exploring low-level programming, security challenges, and cracking puzzles. I’m always eager to learn and collaborate with others!
-
-- 🔭 Currently working on new offensive tools and sharpening my reverse engineering skills  
+- 🔭 Currently focused on developing offensive security tools  
 - 🌱 Continuously learning about exploitation, binary analysis, and systems programming  
 - 👯 Always open to collaborate on security research and development projects  
-- ⚡ Fun fact: I often explain complex concepts with simple analogies (and sometimes with sketches!)  
 
 You can check out my GitHub stats and top languages below:
 
@@ -24,3 +19,7 @@ You can check out my GitHub stats and top languages below:
 </a>
 
 <div style="clear: both;"></div>
+
+---
+
+📫 You can reach me via email: <a href="mailto:GokbakarE@hotmail.com">GokbakarE@hotmail.com</a>
