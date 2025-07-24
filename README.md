@@ -12,10 +12,10 @@ You can check out my GitHub stats and top languages below:
 ---
 
 <a href="https://github.com/GokbakarE">
-  <img align="left" src="https://github-readme-stats.vercel.app/api?username=GokbakarE&show_icons=true&theme=shadow_red" alt="GokbakarE's GitHub Stats" />
+  <img align="left" src="https://github-readme-stats.vercel.app/api?username=GokbakarE&show_icons=true&theme=radical" alt="GokbakarE's GitHub Stats" />
 </a>
 <a href="https://github.com/GokbakarE">
-  <img align="left" src="https://github-readme-stats.vercel.app/api/top-langs/?username=GokbakarE&layout=compact&theme=shadow_red" alt="GokbakarE's Top Languages" />
+  <img align="left" src="https://github-readme-stats.vercel.app/api/top-langs/?username=GokbakarE&layout=compact&theme=radical" alt="GokbakarE's Top Languages" />
 </a>
 
 <div style="clear: both;"></div>
