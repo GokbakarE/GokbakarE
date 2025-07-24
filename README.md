@@ -1,7 +1,7 @@
 ## Hi, I'm GokbakarE 🕷️
 
-[<img src="https://img.icons8.com/color/48/000000/twitter.png" width="3.5%"/>](https://twitter.com/GokbakarE)  
-[<img src="https://img.icons8.com/color/48/000000/linkedin.png" width="3.5%"/>](https://linkedin.com/in/GokbakarE)  
+[<img src="https://img.icons8.com/color/48/000000/gitlab.png" width="3.5%"/>](https://gitlab.com/GokbakarE)  
+[<img src="https://img.icons8.com/color/48/000000/security-checked.png" width="3.5%"/>](https://infosec.exchange/@GokbakarE)  
 <a href="mailto:GokbakarE@hotmail.com"> <img src="https://img.icons8.com/fluent/48/000000/gmail.png" width="3.5%"/> </a>
 
 I'm a passionate **hobbyist programmer** who loves writing **Offensive Security Tools** in **C/C++** and **Assembly**.  
