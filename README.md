@@ -1,4 +1,4 @@
-## Hi, I'm GokbakarE 🕷️
+## Hi, I'm GokbakarE 🐍
 
 I'm a hobbyist programmer who mainly works with **C++** and **YARA**.  
 I enjoy researching security topics and sharing my projects with the community.
