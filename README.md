@@ -22,4 +22,4 @@ You can check out my GitHub stats and top languages below:
 
 ---
 
-📫 You can reach me via email: <a href="mailto:GokbakarE@hotmail.com">GokbakarE@hotmail.com</a>
+📫 <a href="mailto:GokbakarE@hotmail.com">GokbakarE@hotmail.com</a>
