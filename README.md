@@ -11,8 +11,8 @@ You can check out my GitHub stats and top languages below:
 
 ---
 
-<a href="https://github-readme-stats.vercel.app/api?username=GokbakarE&show_icons=true&theme=radical">
-  <img align="left" src="https://github-readme-stats.vercel.app/api?username=GokbakarE&show_icons=true&theme=radical" alt="GokbakarE's GitHub Stats" />
+<a href="https://github-readme-stats.vercel.app/api?username=GokbakarE&cache_seconds=1800&theme=radical">
+  <img align="left" src="https://github-readme-stats.vercel.app/api?username=GokbakarE&cache_seconds=1800&theme=radical" alt="GokbakarE's GitHub Stats" />
 </a>
 <a href="https://github-readme-stats.vercel.app/api/top-langs/?username=GokbakarE&layout=compact&theme=radical">
   <img align="left" src="https://github-readme-stats.vercel.app/api/top-langs/?username=GokbakarE&layout=compact&theme=radical" alt="GokbakarE's Top Languages" />
